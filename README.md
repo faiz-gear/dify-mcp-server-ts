@@ -1,4 +1,5 @@
 # Dify MCP Server (TypeScript)
+[![smithery badge](https://smithery.ai/badge/@faiz-gear/dify-mcp-server-ts)](https://smithery.ai/server/@faiz-gear/dify-mcp-server-ts)
 
 A TypeScript implementation of a Model Context Protocol (MCP) server that exposes Dify workflows as tools.
 
@@ -16,6 +17,14 @@ A TypeScript implementation of a Model Context Protocol (MCP) server that expose
 - Access to Dify API and application secret keys
 
 ## Installation
+
+### Installing via Smithery
+
+To install Dify MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@faiz-gear/dify-mcp-server-ts):
+
+```bash
+npx -y @smithery/cli install @faiz-gear/dify-mcp-server-ts --client claude
+```
 
 1. Clone the repository:
 
